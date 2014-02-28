@@ -1,0 +1,41 @@
+﻿<xapCache source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Bin\Debug\Lannion Bus.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="27/02/2014 17:43:12">
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="22/01/2014 12:14:25" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Background.png" archivePath="Background.png" lastWriteTime="22/01/2014 11:44:49" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="22/01/2014 11:44:49" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\obj\Debug\Lannion Bus.dll" archivePath="Lannion Bus.dll" lastWriteTime="27/02/2014 17:43:10" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\packages\Coding4Fun.Toolkit.Audio.2.0.7\lib\wp71\Coding4Fun.Toolkit.Audio.dll" archivePath="Coding4Fun.Toolkit.Audio.dll" lastWriteTime="27/02/2014 15:50:25" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\packages\Coding4Fun.Toolkit.Controls.2.0.7\lib\wp71\Coding4Fun.Toolkit.Controls.dll" archivePath="Coding4Fun.Toolkit.Controls.dll" lastWriteTime="27/02/2014 15:50:29" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\packages\Coding4Fun.Toolkit.Net.2.0.7\lib\wp71\Coding4Fun.Toolkit.Net.dll" archivePath="Coding4Fun.Toolkit.Net.dll" lastWriteTime="27/02/2014 15:50:30" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\packages\Coding4Fun.Toolkit.Storage.2.0.7\lib\wp71\Coding4Fun.Toolkit.Storage.dll" archivePath="Coding4Fun.Toolkit.Storage.dll" lastWriteTime="27/02/2014 15:50:31" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="06/07/2012 02:40:16" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="06/07/2012 02:40:16" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\packages\WPtoolkit.4.2013.08.16\lib\sl4-windowsphone71\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="23/01/2014 17:40:10" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\packages\Newtonsoft.Json.5.0.8\lib\portable-net40+sl4+wp7+win8\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="22/01/2014 19:56:29" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\appbar.location.checkin.png" archivePath="appbar.location.checkin.png" lastWriteTime="23/01/2014 13:46:26" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\appbar.location.circle.png" archivePath="appbar.location.circle.png" lastWriteTime="23/01/2014 18:36:12" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\appbar.location.png" archivePath="appbar.location.png" lastWriteTime="23/01/2014 13:17:53" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\appbar.pin.png" archivePath="appbar.pin.png" lastWriteTime="23/02/2014 20:01:12" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\appbar.vector.line.curve.png" archivePath="appbar.vector.line.curve.png" lastWriteTime="23/02/2014 13:59:03" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\bike.png" archivePath="bike.png" lastWriteTime="16/02/2014 12:27:24" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Content\arrets.json" archivePath="Content\arrets.json" lastWriteTime="16/02/2014 17:38:50" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\mini-bus.png" archivePath="mini-bus.png" lastWriteTime="16/02/2014 12:10:00" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\notification.png" archivePath="notification.png" lastWriteTime="23/01/2014 20:37:37" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\ReadMe.Coding4Fun.Toolkit.txt" archivePath="ReadMe.Coding4Fun.Toolkit.txt" lastWriteTime="27/02/2014 15:50:38" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\README_FIRST.txt" archivePath="README_FIRST.txt" lastWriteTime="23/01/2014 17:40:12" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Content\horaires.json" archivePath="Content\horaires.json" lastWriteTime="23/02/2014 19:58:43" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Content\vacances.json" archivePath="Content\vacances.json" lastWriteTime="16/02/2014 16:16:49" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Toolkit.Content\ApplicationBar.Add.png" archivePath="Toolkit.Content\ApplicationBar.Add.png" lastWriteTime="23/01/2014 17:40:12" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="23/01/2014 17:40:12" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="23/01/2014 17:40:12" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Toolkit.Content\ApplicationBar.Delete.png" archivePath="Toolkit.Content\ApplicationBar.Delete.png" lastWriteTime="23/01/2014 17:40:12" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Toolkit.Content\ApplicationBar.Select.png" archivePath="Toolkit.Content\ApplicationBar.Select.png" lastWriteTime="23/01/2014 17:40:12" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\ServiceReferences.ClientConfig" archivePath="ServiceReferences.ClientConfig" lastWriteTime="24/01/2014 00:28:18" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\mini.png" archivePath="mini.png" lastWriteTime="22/01/2014 13:13:23" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="22/01/2014 11:44:49" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="27/02/2014 16:07:54" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Bin\Debug\Content\arrets.json" archivePath="Content\arrets.json" lastWriteTime="16/02/2014 17:38:50" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Bin\Debug\Content\horaires.json" archivePath="Content\horaires.json" lastWriteTime="23/02/2014 19:58:43" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Bin\Debug\Content\vacances.json" archivePath="Content\vacances.json" lastWriteTime="16/02/2014 16:16:49" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="22/01/2014 11:44:49" />
+  <file source="C:\Users\baptiste\Documents\Visual Studio 2012\Projects\Lannion Bus\Lannion Bus\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="22/01/2014 11:44:49" />
+</xapCache>
